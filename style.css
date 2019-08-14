@@ -1,21 +1,50 @@
+.container {
+	text-align: center
+}
+
+#name-container {
+	background-color: #82BDFF;
+}
+
 #name-div {
-	background-color: #AFEEEE;
+	background-color: #82BDFF;
+	display: inline-block;
+}
+
+#cmsc-container {
+	background-color: #76CAE8;
 }
 
 #cmsc-div {
-	background-color: #FFA8E8;
+	background-color: #76CAE8;
+	display: inline-block;
+}
+
+#ge-container {
+	background-color: #8FFFFF;
 }
 
 #ge-div {
 	background-color: #8FFFFF;
+	display: inline-block;
+}
+
+#pl-container {
+	background-color: #76E8C8;
 }
 
 #pl-div {
-	background-color: #CCBA5E;
+	background-color: #76E8C8;
+	display: inline-block;
+}
+
+#food-container {
+	background-color: #82FFB8;
 }
 
 #food-div {
-	background-color: #B3A45B;
+	background-color: #82FFB8;
+	display: inline-block;
 }
 
 .h1 {
