@@ -47,6 +47,15 @@
 	display: inline-block;
 }
 
+#hobbies-container {
+	background-color: #3FE8CC;
+}
+
+#hobbies-container-div {
+	background-color: #3FE8CC;
+	display: inline-block;
+}
+
 .h1 {
 	text-align: center;
 }
